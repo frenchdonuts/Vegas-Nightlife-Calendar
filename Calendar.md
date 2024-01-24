@@ -1,51 +1,61 @@
+---
 layout: page
 title: "Calendar"
 permalink: /calendar
+---
 # Week of 2024-01-29 to 2024-02-04:
-| venue             | 2024-01-29 (Mon)   | 2024-01-30 (Tue)   | 2024-01-31 (Wed)   | 2024-02-01 (Thu)   | 2024-02-02 (Fri)   | 2024-02-03 (Sat)   | 2024-02-04 (Sun)   |
-|:------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|
-| Hakkasan          |                    |                    |                    | Loud Luxury        | Justin Credible    | Tyga               |                    |
-| Omnia             |                    |                    |                    |                    | DJ Vice            | NGHTMRE            |                    |
-| Jewel             | DJ Sourmilk        |                    |                    |                    |                    | Four Color Zack    |                    |
-| Marquee Nightclub |                    |                    |                    |                    | Cedric Gervais     | Audien             |                    |
-| Tao               |                    |                    |                    |                    |                    |                    |                    |
-| Zouk              |                    |                    |                    |                    | Kaskade            | deadmau5           |                    |
-| XS Nightclub      |                    |                    | Disco Lines        |                    | Dillon Francis     | Gryffin            |                    |
-| Marquee Dayclub   |                    |                    |                    |                    |                    | DJ Sourmilk        |                    |
-| Lavo              |                    |                    |                    |                    |                    |                    |                    |
+
+| venue             | 2024-01-29 (Mon)   | 2024-01-30 (Tue)   | 2024-01-31 (Wed)                           | 2024-02-01 (Thu)               | 2024-02-02 (Fri)   | 2024-02-03 (Sat)   | 2024-02-04 (Sun)                      |
+|:------------------|:-------------------|:-------------------|:-------------------------------------------|:-------------------------------|:-------------------|:-------------------|:--------------------------------------|
+| Hakkasan          |                    |                    |                                            | Loud Luxury                    | Justin Credible    | Tyga               |                                       |
+| Omnia             |                    | Rob Guson          |                                            | Omnia Thursday                 | DJ Vice            | Nghtmre            | DESEO: Latin Sundays                  |
+| Jewel             | DJ Sourmilk        |                    |                                            |                                | Nitrane            | Four Color Zack    |                                       |
+| Marquee Nightclub |                    |                    | Lema - Lowkey in the Library On Wednesdays |                                | Cedric Gervais     | Audien             | Mike Attack - Drenched Under the Dome |
+| Tao               |                    |                    |                                            | Greg Lopez - Worship Thursdays | Vtech              | DJ Puffy           |                                       |
+| Zouk              |                    |                    |                                            | Estovega                       | Kaskade            | Deadmau5           |                                       |
+| XS Nightclub      |                    |                    | Disco Lines                                |                                | Dillon Francis     | Gryffin            |                                       |
+| Marquee Dayclub   |                    |                    |                                            |                                | Amiri Paul         | DJ Sourmilk        | Escobar                               |
+| Lavo              |                    |                    |                                            |                                |                    | LAVO Party Brunch  |                                       |
+
 # Week of 2024-02-05 to 2024-02-11:
-| venue             | 2024-02-05 (Mon)   | 2024-02-06 (Tue)   | 2024-02-07 (Wed)   | 2024-02-08 (Thu)   | 2024-02-09 (Fri)   | 2024-02-10 (Sat)   | 2024-02-11 (Sun)   |
-|:------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|
-| Hakkasan          |                    |                    |                    |                    | Tyga               |                    |                    |
-| Omnia             |                    | Deorro             |                    | Steve Aoki         | Alesso             | Zedd               | Lil Jon            |
-| Jewel             | DJ E-rock          |                    |                    |                    |                    | Pauly D            |                    |
-| Marquee Nightclub |                    |                    | Roger Sanchez      |                    | Lil Jon            | Nelly              |                    |
-| Tao               |                    |                    |                    | Fat Joe            |                    | Mustard            |                    |
-| Zouk              |                    |                    |                    | T-pain             |                    | Kaskade, Illenium  | Ludacris           |
-| XS Nightclub      |                    |                    |                    | Dillon Francis     | Diplo              |                    | Marshmello         |
-| Marquee Dayclub   |                    |                    |                    |                    |                    |                    |                    |
-| Lavo              |                    |                    |                    |                    |                    |                    |                    |
+
+| venue             | 2024-02-05 (Mon)   | 2024-02-06 (Tue)   | 2024-02-07 (Wed)                                    | 2024-02-08 (Thu)                     | 2024-02-09 (Fri)                                 | 2024-02-10 (Sat)                                             | 2024-02-11 (Sun)                                     |
+|:------------------|:-------------------|:-------------------|:----------------------------------------------------|:-------------------------------------|:-------------------------------------------------|:-------------------------------------------------------------|:-----------------------------------------------------|
+| Hakkasan          |                    |                    |                                                     | Hakkasan Thursday - Big Game Weekend | TYGA - Big Game Weekend Hosted by Playboy        | Hakkasan Saturday - Big Game Weekend                         |                                                      |
+| Omnia             |                    | Deorro             |                                                     | Steve Aoki - Big Game Weekend        | Alesso - Big Game Weekend                        | Zedd - Big Game Weekend                                      | Lil Jon (DJ Set) + Special Guests - Big Game Weekend |
+| Jewel             | E-Rock             |                    |                                                     |                                      |                                                  | DJ Pauly D - Big Game Weekend                                |                                                      |
+| Marquee Nightclub |                    |                    | Roger Sanchez - Lowkey in the Library on Wednesdays |                                      | Lil Jon (DJ Set) - Big Game Weekend              | Nelly - Big Game Weekend                                     | Drenched Under the Dome - Big Game Weekend           |
+| Tao               |                    |                    |                                                     | Fat Joe - Big Game Weekend           | TAO Nightclub Friday - Big Game Weekend          | Mustard – Big Game Weekend                                   |                                                      |
+| Zouk              |                    |                    |                                                     | T-pain                               | Special Guest                                    | Illenium & Kaskade                                           | Ludacris                                             |
+| XS Nightclub      |                    |                    | Charly Jordan                                       | Dillon Francis                       | Shaq's Fun House Big Game Weekend Las Vegas 2024 | Sports Illustrated The Party Big Game Weekend Las Vegas 2024 | Marshmello & Friends                                 |
+| Marquee Dayclub   |                    |                    |                                                     |                                      |                                                  |                                                              | Marquee Dome Sunday - Big Game Weekend               |
+| Lavo              |                    |                    |                                                     |                                      |                                                  | LAVO Party Brunch – Super Brunch                             | Lavo Bowl                                            |
+
 # Week of 2024-02-12 to 2024-02-18:
-| venue             | 2024-02-12 (Mon)   | 2024-02-13 (Tue)   | 2024-02-14 (Wed)   | 2024-02-15 (Thu)   | 2024-02-16 (Fri)   | 2024-02-17 (Sat)   | 2024-02-18 (Sun)   |
-|:------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|
-| Hakkasan          |                    |                    |                    | Pauly D            | O.T. Genasis       | Sofi Tukker        |                    |
-| Omnia             |                    | Justin Credible    |                    |                    | Steve Aoki         | Loud Luxury        |                    |
-| Jewel             | Murda Beatz        |                    |                    |                    |                    | DJ Drama           |                    |
-| Marquee Nightclub |                    |                    |                    |                    | Lost Frequencies   | Cedric Gervais     |                    |
-| Tao               |                    |                    |                    | Justin Credible    |                    |                    |                    |
-| Zouk              |                    |                    |                    |                    | deadmau5           | RL Grime           |                    |
-| XS Nightclub      |                    |                    | Dillon Francis     |                    | Dillon Francis     | Two Friends        |                    |
-| Marquee Dayclub   |                    |                    |                    |                    |                    | Deorro             | Audien             |
-| Lavo              |                    |                    |                    |                    |                    |                    |                    |
+
+| venue             | 2024-02-12 (Mon)               | 2024-02-13 (Tue)   | 2024-02-14 (Wed)                           | 2024-02-15 (Thu)                     | 2024-02-16 (Fri)                           | 2024-02-17 (Sat)                            | 2024-02-18 (Sun)                      |
+|:------------------|:-------------------------------|:-------------------|:-------------------------------------------|:-------------------------------------|:-------------------------------------------|:--------------------------------------------|:--------------------------------------|
+| Hakkasan          |                                |                    |                                            | DJ Pauly D - President's Day Weekend | O.T. Genasis - President's Day Weekend     | SOFI TUKKER - President's Day Weekend       |                                       |
+| Omnia             |                                | Justin Credible    |                                            | Omnia Thursday                       | Steve Aoki                                 | Loud Luxury - President's Day Weekend       | DESEO: Latin Sundays                  |
+| Jewel             | Murda Beatz - Big Game Weekend |                    |                                            |                                      | DJ Cla                                     | DJ Drama                                    |                                       |
+| Marquee Nightclub |                                |                    | Lema - Lowkey in the Library On Wednesdays |                                      | Lost Frequencies - President's Day Weekend | Cedric Gervais - President's Day Weekend    | Beatbreaker - Drenched Under the Dome |
+| Tao               |                                |                    |                                            | Justin Credible - Worship Thursdays  | Angie Vee                                  | DJ Phenom                                   |                                       |
+| Zouk              |                                |                    |                                            | Flight                               | Deadmau5                                   | RL Grime                                    |                                       |
+| XS Nightclub      |                                |                    | Dillon Francis                             |                                      | Dillon Francis                             | Two Friends                                 |                                       |
+| Marquee Dayclub   |                                |                    |                                            |                                      | Amiri Paul                                 | Deorro - Road to EDC                        | Audien - Road to EDC                  |
+| Lavo              |                                |                    |                                            |                                      |                                            | LAVO Party Brunch - President's Day Weekend |                                       |
+
 # Week of 2024-02-19 to 2024-02-25:
-| venue             | 2024-02-19 (Mon)   | 2024-02-20 (Tue)   | 2024-02-21 (Wed)   | 2024-02-22 (Thu)   | 2024-02-23 (Fri)   | 2024-02-24 (Sat)   | 2024-02-25 (Sun)   |
-|:------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|
-| Hakkasan          |                    |                    |                    | Audien             | Sofi Tukker        | Loud Luxury        |                    |
-| Omnia             |                    |                    |                    |                    | Benny Benassi      | Steve Aoki         |                    |
-| Jewel             | Lil Jon            |                    |                    |                    |                    |                    |                    |
-| Marquee Nightclub |                    |                    |                    |                    | Eric D-lux         | Timmy Trumpet      | Ying Yang Twins    |
-| Tao               |                    |                    |                    | DJ Sourmilk        |                    | Four Color Zack    |                    |
-| Zouk              |                    |                    |                    | Savi               | RL Grime           | Kaskade            |                    |
-| XS Nightclub      |                    |                    | Snakehips          |                    | Two Friends        | Marshmello         |                    |
-| Marquee Dayclub   |                    |                    |                    |                    |                    | Cheyenne Giles     | DJ Lema            |
-| Lavo              |                    |                    |                    |                    |                    |                    |                    |
+
+| venue             | 2024-02-19 (Mon)   | 2024-02-20 (Tue)   | 2024-02-21 (Wed)                             | 2024-02-22 (Thu)                | 2024-02-23 (Fri)   | 2024-02-24 (Sat)   | 2024-02-25 (Sun)                                              |
+|:------------------|:-------------------|:-------------------|:---------------------------------------------|:--------------------------------|:-------------------|:-------------------|:--------------------------------------------------------------|
+| Hakkasan          |                    |                    |                                              | Audien                          | Sofi Tukker        | Loud Luxury        |                                                               |
+| Omnia             |                    | Rob Guson          |                                              | Omnia Thursday                  | Benny Benassi      | Steve Aoki         | DESEO: Latin Sundays                                          |
+| Jewel             | Lil Jon (DJ Set)   |                    |                                              |                                 | Yo Yolie           | DJ Dynamiq         |                                                               |
+| Marquee Nightclub |                    |                    | ZUEZEU - Lowkey in the Library on Wednesdays |                                 | Eric D-Lux         | Timmy Trumpet      | Ying Yang Twins - Parental Advisory - Drenched Under the Dome |
+| Tao               |                    |                    |                                              | DJ Sourmilk - Worship Thursdays | DJ Cla             | Four Color Zack    |                                                               |
+| Zouk              |                    |                    |                                              | DJ Savi                         | RL Grime           | Kaskade            |                                                               |
+| XS Nightclub      |                    |                    | Snakehips                                    |                                 | Two Friends        | Marshmello         |                                                               |
+| Marquee Dayclub   |                    |                    |                                              |                                 | Greg Lopez         | Cheyenne Giles     | Lema                                                          |
+| Lavo              |                    |                    |                                              |                                 |                    | LAVO Party Brunch  |                                                               |
+
